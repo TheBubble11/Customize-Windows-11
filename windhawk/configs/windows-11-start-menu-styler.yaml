@@ -1,0 +1,15 @@
+﻿theme: FrostyGlass
+disableNewStartMenuLayout: ''
+styleConstants:
+  - ''
+controlStyles:
+  - target: ''
+    styles:
+      - ''
+themeResourceVariables:
+  - ''
+webContentStyles:
+  - target: ''
+    styles:
+      - ''
+webContentCustomJs: ''

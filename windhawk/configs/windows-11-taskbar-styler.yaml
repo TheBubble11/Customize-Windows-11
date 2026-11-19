@@ -1,0 +1,11 @@
+﻿theme: Surface
+styleConstants:
+  - ''
+controlStyles:
+  - target: ''
+    styles:
+      - ''
+themeResourceVariables:
+  - ''
+clickThroughTaskbar: 0
+xamlDiagnosticsHandling: alert

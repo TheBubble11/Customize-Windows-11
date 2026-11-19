@@ -1,0 +1,6 @@
+﻿animation_type: fade
+duration_ms: 250
+top_inset: 48
+capture_delay_ms: 140
+change_threshold: 2
+slide_vertical: 0

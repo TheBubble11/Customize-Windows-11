@@ -1,0 +1,8 @@
+﻿WobblinessPreset: '2'
+EnableResizeWobble: 1
+EnableWindowStateWobble: 1
+AdvancedMode:
+  enable: 1
+  Stiffness: 6
+  Drag: 90
+  MoveFactor: 10
