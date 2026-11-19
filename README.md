@@ -13,7 +13,6 @@ For windows 11
 -
 
 ## display
-## YASB
 
 ![YASB Preview](assets/images/yasb-preview.png)
 
