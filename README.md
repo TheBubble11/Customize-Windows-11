@@ -15,7 +15,7 @@ For windows 11
 ## display
 ## YASB
 
-![YASB Preview](C:\Users\LENOVO\Pictures\Screenshots\Screenshot 2026-11-19 160707)
+![YASB Preview](C:\Users\LENOVO\Pictures\Screenshots)
 
 ## --- YASB ----
 https://github.com/amnweb/yasb
