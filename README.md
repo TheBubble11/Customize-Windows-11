@@ -1,7 +1,7 @@
 ## Customize-Windows-11
 For windows 11
 
- Use app Yasb and Windhawk
+ Use app Yasb and Windhawk and Bangocat
 
 ##  System Requirements
 
@@ -22,3 +22,5 @@ https://github.com/amnweb/yasb
 
 ## --- Windhawk ---
 https://github.com/ramensoftware/windhawk
+
+## --- BangoCat ---
